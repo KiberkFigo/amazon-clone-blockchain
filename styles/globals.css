@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+body {
+  background-color: #fff;
+  font-family: "Sofia", sans-serif;
+}
